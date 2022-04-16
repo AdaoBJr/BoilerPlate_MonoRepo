@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/core",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "csstype": "^3.0.11",
+    "typescript": "^4.6.3"
+  }
+}
